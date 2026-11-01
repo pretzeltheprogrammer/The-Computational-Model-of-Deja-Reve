@@ -21,7 +21,9 @@ The repository contains a computational proof-of-concept simulation written in P
 
 This project connects abstract cognitive science with concrete algorithmic concepts:
 • Pattern Completion: The biological equivalent of a lookup function where a snippet of data reconstructs a wider neural network.
+
 • Information Theory & Vector Embeddings: Modeling cognitive memory processing similarly to how large language models (LLMs) find mathematical proximity across high-dimensional vector spaces.
+
 • Reducing Valve Theory: Accounting for the drop-off of déjà vu/rêvé experiences as neural processing engines mature and stabilize across human aging cycles.
 
 # 📄 License
