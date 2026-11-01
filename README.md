@@ -25,5 +25,6 @@ This project connects abstract cognitive science with concrete algorithmic conce
 # 📄 License
 
 This project is open-source and intended for exploratory research in computational neuroscience and cognitive modeling.
+Copyright (c) 2026 pretzeltheprogrammer
 
 
