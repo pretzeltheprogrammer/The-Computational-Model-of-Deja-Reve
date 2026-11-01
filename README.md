@@ -20,6 +20,7 @@ The repository contains a computational proof-of-concept simulation written in P
 # 🧠 Scientific Connections
 
 This project connects abstract cognitive science with concrete algorithmic concepts:
+
 • Pattern Completion: The biological equivalent of a lookup function where a snippet of data reconstructs a wider neural network.
 
 • Information Theory & Vector Embeddings: Modeling cognitive memory processing similarly to how large language models (LLMs) find mathematical proximity across high-dimensional vector spaces.
