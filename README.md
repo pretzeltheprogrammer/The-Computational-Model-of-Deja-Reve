@@ -2,7 +2,7 @@
 An information-theoretic and algorithmic approach to human consciousness glitches. This project models déjà rêvé (the feeling that a present waking moment was already experienced in a dream) not as a supernatural phenomenon, but as a sub-string pattern matching event operating under hard biological processing constraints.
 
 
-Core Postulatese
+Core Postulates
 
 1. The REM Infinite String: During REM sleep, the hyper-associative firing of the hippocampus and amygdala generates an incredibly long, continuous string of neural firing patterns (represented mathematically as a high-dimensional vector or a long decimal sequence like π).
 2. The Waking Sub-String Query: Waking reality is processed as shorter, highly structured neural strings.
