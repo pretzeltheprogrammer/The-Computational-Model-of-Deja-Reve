@@ -1,4 +1,4 @@
-# The-Computational-Model-of-Deja-Reve
+# The Computational Model of  Déjà Rêvé
 An information-theoretic and algorithmic approach to human consciousness glitches. This project models déjà rêvé (the feeling that a present waking moment was already experienced in a dream) not as a supernatural phenomenon, but as a sub-string pattern matching event operating under hard biological processing constraints.
 
 
@@ -13,6 +13,8 @@ Core Postulates
 # 💻 Simulation & Implementation
 
 The repository contains a computational proof-of-concept simulation written in Python. It simulates the generation of a noisy, high-frequency REM dream stream, injects a hidden alignment sequence, and uses a rolling Mean Squared Error (MSE) search algorithm to locate the sub-string.
+
+[![Binder](https://mybinder.org)](https://mybinder.org)
 
 
 # 🧠 Scientific Connections
