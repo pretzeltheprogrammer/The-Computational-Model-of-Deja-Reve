@@ -14,7 +14,7 @@ Core Postulates
 
 The repository contains a computational proof-of-concept simulation written in Python. It simulates the generation of a noisy, high-frequency REM dream stream, injects a hidden alignment sequence, and uses a rolling Mean Squared Error (MSE) search algorithm to locate the sub-string.
 
-[![Binder](https://mybinder.org)](https://mybinder.org)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pretzeltheprogrammer/The-Computational-Model-of-Deja-Reve/HEAD?urlpath=%2Fdoc%2Ftree%2Fsimulation.ipynb)
 
 
 # 🧠 Scientific Connections
